@@ -6,7 +6,7 @@ http://setosa.io/ev/principal-component-analysis/
 
 http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca
 
-##The actual math is rooted in matrix algebra. 
+##The actual math is rooted in matrix algebra: 
 
 ###(note: I haven't read this one, but I skimmed through it and it looks good):
 
